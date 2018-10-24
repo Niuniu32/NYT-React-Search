@@ -1,0 +1,24 @@
+{
+  "name": "nyt-react-search",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Niuniu32/NYT-React-Search.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Niuniu32/NYT-React-Search/issues"
+  },
+  "homepage": "https://github.com/Niuniu32/NYT-React-Search#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "express": "^4.16.4",
+    "mongoose": "^5.3.6"
+  }
+}
